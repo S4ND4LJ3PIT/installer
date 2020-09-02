@@ -9,7 +9,7 @@ red='\033[31;1m'
 white='\033[37;1m'
 yellow='\033[33;1m'
 ###################################################
-# Channel Ilangqwer & Sandal jepit
+# Channel Ilangqwer & Sandal jepit.               #
 ###################################################
 trap ctrl_c INT
 ctrl_c() {
@@ -53,7 +53,7 @@ echo  $yellow" 13) Tools RCT"
 echo  $yellow" 14)  cc fresh Amazon Dan Untung Carding"
 echo  $red" 15) Exit "
 echo  $white""
-read -p "[SANTRI GANS]> " bro;
+read -p "[PILIH BOY]> " bro;
 
 if [ $bro = 1 ] || [ $bro = 01 ]
 then
